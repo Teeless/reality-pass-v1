@@ -1,0 +1,19 @@
+{
+  "challenge_id": "chlg_12345",
+  "device_id": "device-001",
+  "timestamp": "2026-03-24T20:00:10Z",
+  "device_attestation": {
+    "type": "tpm",
+    "evidence": "base64-attestation-data"
+  },
+  "power": {
+    "voltage": 120.4,
+    "current": 1.82,
+    "watts_series": [180, 189, 192, 188, 191]
+  },
+  "thermal": {
+    "baseline_c": 24.3,
+    "probe_series_c": [24.3, 24.8, 25.7, 26.9, 28.1]
+  },
+  "signature": "base64-signature"
+}
