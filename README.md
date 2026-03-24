@@ -24,3 +24,12 @@ docs/                Architecture, API, and threat model docs
 infra/               Terraform infrastructure
 services/verifier/   Cloud verification service
 .github/workflows/   CI/CD workflows
+
+## Status
+
+Early concept and scaffold.
+
+Current focus:
+- cloud verifier structure
+- Terraform environment setup
+- physical test rig planning
